@@ -1,0 +1,19 @@
+footer {
+  background-color: #3f3d56;
+  display: grid;
+  grid-template-columns: 1fr auto auto auto;
+  padding: 50px 40px;
+  align-items: center;
+}
+footer a {
+  display: flex;
+  margin: 10px;
+}
+footer a:hover {
+  filter: invert(100%);
+}
+
+.footer__copyright {
+  color: #ffffff;
+  opacity: 0.4;
+}

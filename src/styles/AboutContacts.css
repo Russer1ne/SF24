@@ -1,0 +1,18 @@
+.contacts__frame {
+  padding: 80px 0;
+}
+.contacts__frame-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.contacts__frame-item {
+  min-width: 264px;
+}
+.contacts__frame-title {
+  color: #4f4f4f;
+  font-size: 14px;
+}
+.contacts__frame a {
+  color: black;
+  text-decoration: none;
+}

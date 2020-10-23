@@ -1,0 +1,19 @@
+.team__frame {
+  padding: 80px 0;
+}
+.team__frame-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.team__frame-item {
+  width: 25%;
+  padding-top: 60px;
+}
+.team__frame-item-name {
+  font-weight: bold;
+}
+.team__frame-item-position {
+  color: #828282;
+  font-size: 14px;
+}
